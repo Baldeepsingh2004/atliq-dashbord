@@ -22,6 +22,10 @@ Atliq specializes in selling a variety of electronic and hardware products. To h
 - Revenue analysis by category
 - Geographic distribution of customers
 
+##Preview
+![Atliq Dashboard](https://drive.google.com/uc?id=1PsZfI2DPBorL6ybUWJ9zdRDbaG0IR0jI)
+
+
 By utilizing data from a MySQL database, the dashboard can update in real-time to reflect the latest data, making it a crucial tool for management and decision-makers.
 
 ## Technologies Used
